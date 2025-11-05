@@ -1,1 +1,1 @@
-# Military_simulation
+תרגיל סמולציה צבאית
